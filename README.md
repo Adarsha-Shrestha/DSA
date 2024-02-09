@@ -21,4 +21,4 @@
 
 ### LAB 6
 1. Doubly_Linked_List
-2. Solving Polynomial Equations
+2. Adding Polynomial Equations
